@@ -1055,7 +1055,7 @@ section
 {
 	font-size: 122px;
 	font-weight: 700;
-	color: #414141;
+	color: #fff;
 	line-height: 0.75;
 }
 .home_discount_num::after
@@ -1072,7 +1072,7 @@ section
 {
 	font-size: 16px;
 	font-weight: 600;
-	color: #414141;
+	color: #fff;
 	line-height: 0.75;
 	margin-left: 11px;
 	margin-bottom: 2px;
@@ -1081,7 +1081,7 @@ section
 {
 	font-size: 100px;
 	line-height: 1.2;
-	color: #414141;
+	color: #fff;
 	font-weight: 300;
 	margin-top: -20px;
 }
